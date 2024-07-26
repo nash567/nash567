@@ -1,4 +1,4 @@
-# 💫 About Me: Golang Virtuoso & Blockchain Adventurer
+# 💫 About Me: 🌟 Backend Artisan & Code Trailblazer
 
 Crafting cutting-edge backend solutions with 2 years of hands-on wizardry in the Go ecosystem.
 
@@ -43,6 +43,3 @@ Seeking fellow innovators for epic coding adventures. Let's build the future tog
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nash567&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
